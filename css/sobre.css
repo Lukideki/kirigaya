@@ -1,0 +1,46 @@
+body {
+    background-color: #920000;
+    font-family: 'Trebuchet MS';
+}
+
+
+.t-rex{
+    padding: 5px 7px;
+    background-color: #fff;
+    border-radius: 8px;
+    color: #000;
+    border-color: #29f700;
+    font-family: 'Arial';
+    font-style: oblique;
+    right: 35px;
+    transition: 0.5s;
+}
+
+.t-rex:hover {
+    background-color: #29f700;
+    cursor: pointer;
+}
+
+.freddy-luki {
+    background-color: #004aa0;
+    text-align: center;
+    color: #000000;
+    font-family: 'Trebuchet MS';
+    text-shadow: #000;
+    width: 100%;
+    padding: 24px;
+}
+
+
+.vennon {
+    color: #fff;
+}
+
+
+.sound {
+    color: #fff;
+}
+
+.vinicius {
+    color: #0095a0;
+}
